@@ -15,3 +15,5 @@
 ## Spring DI（依赖注入）的实现方式
 
 ## Spring Bean的配置及常用属性
+
+## Spring实例化Bean的三种方法
