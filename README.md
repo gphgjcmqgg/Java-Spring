@@ -12,3 +12,6 @@
 
 ## 第一个Spring程序
 
+## Spring DI（依赖注入）的实现方式
+
+## Spring Bean的配置及常用属性
